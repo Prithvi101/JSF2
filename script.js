@@ -15,7 +15,7 @@ let     arr = [
     
   }
   
-  function PrintStudentsbyForEach(arr) {
+  function PrintStudentsbyForEach() {
     //Write your code here , just console.log
     arr.forEach(function(element) {
         console.log(element);
